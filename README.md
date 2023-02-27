@@ -1,1 +1,3 @@
-# DungeonMania
+# **DungeonMania**
+
+## About the Project
